@@ -14,7 +14,7 @@
 		08C2BD642E718907000DBE25 /* Exceptions for "Crypto" folder in "Crypto" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = 08C2BD512E718906000DBE25 /* Crypto */;
 		};
